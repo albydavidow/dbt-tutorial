@@ -1,0 +1,9 @@
+
+
+============================== 2022-11-15 23:11:59.109452 | 79b1b2b9-a46e-4213-815b-1663ae12bf34 ==============================
+[0m23:11:59.109457 [info ] [MainThread]: Running with dbt=1.3.0
+[0m23:11:59.109655 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/alby/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'jaffle_shop', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m23:11:59.109722 [debug] [MainThread]: Tracking: tracking
+[0m23:11:59.118749 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fbb8b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fb0f70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fb0f10>]}
+[0m23:11:59.119362 [info ] [MainThread]: Creating dbt configuration folder at /Users/alby/.dbt
+[0m23:11:59.120053 [debug] [MainThread]: Starter project path: /opt/homebrew/Cellar/dbt-bigquery/1.3.0/libexec/lib/python3.9/site-packages/dbt/include/starter_project
